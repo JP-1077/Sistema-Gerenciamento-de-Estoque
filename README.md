@@ -58,3 +58,58 @@ O modelo possui as respectivas tabelas:
   * **Item Pedido** = Relaciona produtos com pedidos, registrando o que foi vendido e quanto.
     
 <img src="Diagrama%20Banco%20de%20Dados.png" alt="Diagrama BD" width="600"/>
+
+## **🛠 3. Tecnologias Utilizadas** 
+
+A seguir estão as principais tecnologias, frameworks e bibliotecas utilizadas no desenvolvimento de sistema:
+
+| Camada         | Tecnologia       |                                  
+|------------------|----------------
+| Back - end               | Django e Python    
+| Front - End            | HTML, CSS e Bootstrap           
+| Banco de Dados        | SQLite               
+| Versionamento     | Git e GitHub         
+| Documentação   | Markdown     
+
+#
+
+**🔧 4. Funcionalidades do Sistema**
+
+O sistema foi projetado com foco na eficiência do controle de estoque e na experiência do usuário. As principais funcionalidades implementadas são:        
+
+🗂️ Cadastro de Produtos
+
+* Inserção de novos produtos no sistema com nome, descrição, categoria, preço e quantidade inicial.
+
+* Edição e exclusão de produtos existentes.
+
+* Associação com uma categoria para melhor organização.
+
+📦 Controle de Estoque
+
+* Registro de movimentações de entrada e saída.
+
+* Atualização automática do saldo de produtos no estoque.
+
+* Validação para evitar saídas com quantidade superior ao estoque disponível.
+
+* Visualização de histórico de movimentações.
+  
+📊 Dashboard e Relatórios
+
+* Visualização de métricas como: produtos mais movimentados, estoque mínimo, entradas/saídas por período.
+
+* Gráficos interativos com uso de Chart.js.
+
+* Filtros por categoria, produto e data.
+
+📁 Organização por Categorias
+
+* Cadastro de categorias.
+
+* Associação de produtos por categoria.
+
+* Filtro por categoria em listagens e relatórios.
+
+
+
