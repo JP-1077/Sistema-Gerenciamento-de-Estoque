@@ -111,5 +111,17 @@ O sistema foi projetado com foco na eficiência do controle de estoque e na expe
 
 * Filtro por categoria em listagens e relatórios.
 
+# **✔ 6. Conclusão**
+
+O Sistema de Gerenciamento de Estoque foi desenvolvido com o objetivo de oferecer uma solução simples, eficiente e segura para empresas que desejam controlar seu inventário de forma organizada. Com a implementação de recursos como autenticação, movimentações de estoque, relatórios e visualizações, o sistema proporciona uma base sólida para:
+
+* Redução de perdas e extravios de produtos;
+
+* Melhor tomada de decisão com base em dados;
+
+* Otimização do processo de entrada e saída de mercadorias.
+
+* A estrutura modular baseada no Django permite que o sistema seja facilmente escalável e adaptável para novas funcionalidades, como emissão de notas, integração com ERP ou mesmo APIs externas.
+
 
 
