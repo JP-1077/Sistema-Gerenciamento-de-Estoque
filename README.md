@@ -73,7 +73,7 @@ A seguir estão as principais tecnologias, frameworks e bibliotecas utilizadas n
 
 #
 
-**🔧 4. Funcionalidades do Sistema**
+## **🔧 4. Funcionalidades do Sistema**
 
 O sistema foi projetado com foco na eficiência do controle de estoque e na experiência do usuário. As principais funcionalidades implementadas são:        
 
